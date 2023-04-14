@@ -1,0 +1,37 @@
+This script installs various software on a Linux machine using different installation methods. It installs the following software:
+
+Visual Studio Code
+Jira
+GameMaker Studio
+Android Studio
+Adobe Photoshop, Illustrator, and Sketch
+Wwise
+Asana
+Google Analytics
+Microsoft Azure CLI
+Ansible
+Terraform
+Docker
+Kubernetes
+Prometheus
+Prerequisites
+Before running this script, ensure that you have a Linux machine with root access.
+
+Usage
+Perform the following steps to install the software:
+
+Open a terminal window on your Linux machine.
+
+Copy the script to your terminal window.
+
+Run the script using the following command:
+
+sudo bash script_name.sh
+Replace script_name.sh with the name of the script file.
+
+Wait for the script to complete. The script will install all the software listed above.
+
+Conclusion
+By following the above steps, you should now have all the software installed on your Linux machine.
+If you encounter any issues during the installation process,
+consult the documentation for each tool or seek assistance from a Linux administrator or support community.
